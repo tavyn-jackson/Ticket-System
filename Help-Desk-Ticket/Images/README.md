@@ -2,47 +2,44 @@
 
 Landing page for users.
 
-![Home Page](./screenshots/01-home-page.png)
-
-### Home Page
-
-Landing page for users.
-
-![Home Page](./screenshots/01-home-page.png)
+![Home Page](./All-Images/homepage.png)
 
 ### Create Ticket Page
 
 Users submit ticket information.
 
-![Create Ticket](./screenshots/02-create-ticket-page.png)
+![Create Ticket](./All-Images/createticket.png)
 
 ### Ticket Successfully Created
 
 Ticket stored in SQLite database and displayed in the application.
 
-![Ticket Created](./screenshots/03-ticket-created.png)
+![Ticket Created](./All-Images/successticket.png)
 
 ### Administrator Login
 
 Authentication page used for ticket management.
 
-![Login Page](./screenshots/04-login-page.png)
+![Login Page](./All-Images/adminlogin.png)
 
 ### Admin Dashboard
 
 Allows administrators to update ticket status.
 
-![Admin Dashboard](./screenshots/05-admin-dashboard.png)
+![Admin Dashboard](./All-Images/admindash.png)
 
 ### Status Update
 
 Status changed from Open to Closed.
 
-![Status Updated](./screenshots/06-status-updated.png)
+![Status Updated](./All-Images/statusupdate.png)
+![Database Update](./All-Images/dbupdate.png)
 
 ### Pytest Results
 
 Automated route validation using Pytest.
 
-![Pytest Results](./screenshots/08-pytest-results.png)
+![Pytest Results](./All-Images/pytest.png)
+![Pytest Code](./All-Images/pycode.png)
+
 
